@@ -23,11 +23,6 @@ h1 {
 
 }
 
-footer {
-  color: #DBEDF3;
-  font-family: sans-serif;
-}
-
 .w {
  background-image: url("images/tom1.png");
 }
@@ -90,11 +85,12 @@ footer {
   width: 150px;
   height: 150px;
   text-align: center;
-  margin: 10px;
+  margin: 5px;
   background-color: white;
 }
 
 footer {
+  margin-bottom: 3rem;
   color: #EEEEEE;
   text-align: center;
   font-family: 'Orange-Kid', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
